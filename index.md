@@ -1,14 +1,9 @@
-## Xinran Dong's homepage
 
 ![XinranDong-mod](XinranDong-mod.jpg)
 
 Email: xrdong@fudan.edu.cn
 
-Ph.D in bioinformatics
-
-Assistant Researcher
-
-Children's Hospital of Fudan University, Shanghai, China
+Ph.D in bioinformatics, Assistant Researcher, Children's Hospital of Fudan University, Shanghai, China
 
 ### Biography
 
@@ -17,7 +12,7 @@ Since 2017 working in the Children’s Hospital of Fudan University, Dr. Xinran 
 ### Education
 
 - 2006/9	2010/7	Fudan University, School of Life Science	Bachelor	Biology Science
-- 2010/9	2015/7	Fudan University, School of Life Science	PhD	Bioinformatics
+- 2010/9	2015/7	Fudan University, School of Life Science	Ph.D	Bioinformatics
 
 ### Research Interests
 
