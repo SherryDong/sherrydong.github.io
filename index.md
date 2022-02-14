@@ -14,8 +14,10 @@ She joined the primary force of IRDIRC (International Rare Diseases Research Con
 
 ### Education
 
-- 2006/9	2010/7	Fudan University, School of Life Science	Bachelor	Biology Science
-- 2010/9	2015/7	Fudan University, School of Life Science	Ph.D	Bioinformatics
+- 2006/9	2010/7	Fudan University, School of Life Science,	Bachelor,	Biology Science
+- 2010/9	2015/7	Fudan University, School of Life Science,	Ph.D,	Bioinformatics
+- 2011/4  2012/1  Genome Center, UC Davis, USA, Visiting Scholar
+- 2018/10 2019/8  Jiyang Yu's lab, St Jude Children's Research Hospital, USA, Visiting Scholar
 
 ### Research Interests
 
