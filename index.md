@@ -4,7 +4,7 @@
   <p>Email: xrdong@fudan.edu.cn</p>
   <p>Ph.D in bioinformatics, Assistant Researcher</p>
   <p>Children's Hospital of Fudan University, Shanghai, China</p>
-  <p>ResearchGate main page (https://www.researchgate.net/profile/Xinran-Dong-2) </p>
+  <p>ResearchGate main page <a href='https://www.researchgate.net/profile/Xinran-Dong-2'>(https://www.researchgate.net/profile/Xinran-Dong-2)</a> </p>
 </div>
 
 ### Biography
