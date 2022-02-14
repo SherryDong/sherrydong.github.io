@@ -1,9 +1,9 @@
 
-![XinranDong-mod](XinranDong-mod.jpg)
-
-Email: xrdong@fudan.edu.cn
-
-Ph.D in bioinformatics, Assistant Researcher, Children's Hospital of Fudan University, Shanghai, China
+<div align="center">
+  <img src="XinranDong-mod.jpg" style="display: inline-block; width: 80%"/>
+  <p>Email: xrdong@fudan.edu.cn</p>
+  <p>Ph.D in bioinformatics, Assistant Researcher, Children's Hospital of Fudan University, Shanghai, China</p>
+</div>
 
 ### Biography
 
@@ -29,6 +29,6 @@ As a patient of rare disease, Xinran Dong has decided to devote her life to the 
 4.	Luo,Zaili#; <b>Dong,Xinran#</b>; Yu,Jianzhong#; Xia,Yong#; Berry,Kalen P.; Rao,Rohit; Xu,Lingli; Xue,Ping; Chen,Tong; Lin,Yifeng; Yu,Jiyang; Huang,Guoying; Li,Hao*; Zhou,Wenhao*; Lu,Q. Richard*; Genomic and Transcriptomic Analyses Reveals ZNF124 as a Critical Regulator in Highly Aggressive Medulloblastomas, Frontiers in Cell and Developmental Biology, 2021, 9:634056. 
 5.	<b>Dong, Xinran#</b>; Liu, Bo#; Yang, Lin; Wang, Huijun; Wu, Bingbing; Liu, Renchao; Chen, Hongbo; Chen, Xiang; Yu, Sha; Chen, Bin; Wang, Sujuan; Xu, Xiu; Zhou, Wenhao; Lu, Yulan*; Clinical exome sequencing as the first-tier test for diagnosing developmental disorders covering both CNV and SNV: a Chinese cohort, Journal of Medical Genetics, 2020, 57(8): 558-566. 
 6.	Wu Jingfang#, <b>Dong Xinran#</b>, Li Wen#, Zhao Liping, Zhou Li, Sun Shan*, Li Huawei*. Dibenzazepine promotes cochlear supporting cell proliferation and hair cell regeneration in neonatal mice [J]. Cell Proliferation, 2020, 53(9): .(期刊论文)
-7.	秦谦#, 陈乡#, 卢宇蓝, 吴冰冰, 王慧君, <b>董欣然*</b>, 杨琳*, 周文浩. ALDOB基因复合杂合变异致遗传性果糖不耐受饮食控制30年1例报告并文献复习 [J]. 中国循证儿科杂志, 2018, 13(04): 34-39.
-8.	秦谦#; 刘博#; 杨琳; 吴冰冰; 王慧君; <b>董欣然*</b>; 卢宇蓝*; 周文浩; 基于高通量测序技术的拷贝数变异筛选分析流程的建立及应用, 中国循证儿科杂志, 2018, 13(4): 275-279. 
+7.	秦谦#, 陈乡#, 卢宇蓝, 吴冰冰, 王慧君, 董欣然*, 杨琳*, 周文浩. ALDOB基因复合杂合变异致遗传性果糖不耐受饮食控制30年1例报告并文献复习 [J]. 中国循证儿科杂志, 2018, 13(04): 34-39.
+8.	秦谦#; 刘博#; 杨琳; 吴冰冰; 王慧君; 董欣然*; 卢宇蓝*; 周文浩; 基于高通量测序技术的拷贝数变异筛选分析流程的建立及应用, 中国循证儿科杂志, 2018, 13(4): 275-279. 
 
