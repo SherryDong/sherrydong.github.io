@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="XinranDong-mod.jpg" style="display: inline-block; width: 80%"/>
+  <img src="XinranDong-mod.jpg" style="display: inline-block; width: 20%"/>
   <p>Email: xrdong@fudan.edu.cn</p>
   <p>Ph.D in bioinformatics, Assistant Researcher, Children's Hospital of Fudan University, Shanghai, China</p>
 </div>
