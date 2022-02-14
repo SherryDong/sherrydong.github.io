@@ -4,11 +4,12 @@
   <p>Email: xrdong@fudan.edu.cn</p>
   <p>Ph.D in bioinformatics, Assistant Researcher</p>
   <p>Children's Hospital of Fudan University, Shanghai, China</p>
+  <p>ResearchGate main page (https://www.researchgate.net/profile/Xinran-Dong-2) </p>
 </div>
 
 ### Biography
 
-Since 2017 working in the Children’s Hospital of Fudan University, Dr. Xinran Dong has been engaged in the algorithm development involved in genetic testing pipeline and disease mechanism study, data analysis for clinical cohort and AI (artificial intelligence) pipeline construction for neonatal EEG (Electroencephalogram) diagnosis. The developed algorithms have not only solved scientific and clinical problems, but also been deployed and applied in routine work through the construction of web service platforms. Some of the algorithms have been released in GitHub and all academic papers can be found in Xinran Dong’s ResearchGate main page (https://www.researchgate.net/profile/Xinran-Dong-2).
+Since 2017 working in the Children’s Hospital of Fudan University, Dr. Xinran Dong has been engaged in the algorithm development involved in genetic testing pipeline and disease mechanism study, data analysis for clinical cohort and AI (artificial intelligence) pipeline construction for neonatal EEG (Electroencephalogram) diagnosis. The developed algorithms have not only solved scientific and clinical problems, but also been deployed and applied in routine work through the construction of web service platforms. 
 As a patient of rare disease, Xinran Dong has decided to devote her life to the field of rare disease study. She joined the primary force of IRDIRC (International Rare Diseases Research Consortium). 
 
 ### Education
