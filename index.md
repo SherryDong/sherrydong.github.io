@@ -2,7 +2,8 @@
 <div align="center">
   <img src="XinranDong-mod.jpg" style="display: inline-block; width: 20%"/>
   <p>Email: xrdong@fudan.edu.cn</p>
-  <p>Ph.D in bioinformatics, Assistant Researcher, Children's Hospital of Fudan University, Shanghai, China</p>
+  <p>Ph.D in bioinformatics, Assistant Researcher</p>
+  <p>Children's Hospital of Fudan University, Shanghai, China</p>
 </div>
 
 ### Biography
@@ -23,6 +24,7 @@ As a patient of rare disease, Xinran Dong has decided to devote her life to the 
 - Rare disease related technology support and education.
 
 ### Selected publications
+
 1.	Xiao Tiantian#, Ni Qi, Chen Huiyao, Wang Huijun, Yang Lin, Wu Bingbing, Cao Yun, Cheng Guoqiang, Wang Laishuan, Hu Liyuan, Mei Hongfang, Lu Yulan, Gong Mengchun, <b>Dong Xinran*</b>, Zhou Wenhao. High-risk phenotypes of genetic disease in a Neonatal Intensive Care Unit population [J]. Chinese Medical Journal, 2022, Publish Ahead of Print
 2.	<b>Dong Xinran#</b>, Kong Yanting, Xu Yan, Zhou Yuanfeng, Wang Xinhua, Xiao Tiantian, Chen Bin, Lu Yulan, Cheng Guoqiang*, Zhou Wenhao*; Development and validation of Auto-Neo-EEG to estimate brain age and predict report conclusion for Electroencephalography monitoring data in neonatal intensive care units; Annals of Translational Medicine; SCI; (2021) 21-1564.
 3.	<b>Dong, Xinran#</b>; Yang, Lin#; Liu, Kaiyi; Ji, Xiaoli; Tang, Chuanqing; Li, Wanxing; Ma, Ling; Mei, Yuting; Peng, Ting; Feng, Ban; Wu, Ziyan; Tang, Qingyuan; Gao, Yanyan; Yan, Kai; Zhou, Wenhao*; Xiong, Man*; Transcriptional networks identify Synaptotagmin-like 3 as a hidden regulator of cortical neuron migration during early neurodevelopment, Cell Reports, 2021, 34(9):108802.
